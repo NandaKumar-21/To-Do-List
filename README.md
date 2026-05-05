@@ -1,15 +1,15 @@
 # ✅ To-Do List Application
 
-A simple yet functional **command-line To-Do List application** built in Java. Manage your tasks efficiently right from the terminal — add, view, delete, and mark tasks as complete or pending.
+A simple yet functional **command-line To-Do List application** built in Java. Manage your tasks efficiently right from the terminal - add, view, delete, and mark tasks as complete or pending.
 
 ---
 
 ## 📋 Features
 
-* **Add Tasks** — Create new tasks with auto-incremented IDs
-* **View Tasks** — Display all tasks along with their completion status
-* **Delete Tasks** — Remove tasks by their ID using safe iterator-based deletion
-* **Toggle Completion** — Mark tasks as Completed or revert them back to Pending
+* **Add Tasks** - Create new tasks with auto-incremented IDs
+* **View Tasks** - Display all tasks along with their completion status
+* **Delete Tasks** - Remove tasks by their ID using safe iterator-based deletion
+* **Toggle Completion** - Mark tasks as Completed or revert them back to Pending
 
 ---
 
