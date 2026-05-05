@@ -17,7 +17,7 @@ public class Main {
         int idCounter = 1;
         while (true) {
             System.out.println("----- TO-DO LIST APPLICATION -----");
-            System.out.println(" 1. Add Task \n 2. View Tasks \n 3. Delete Task \n 4. Mark Task as Complete");
+            System.out.println(" 1. Add Task \n 2. View Tasks \n 3. Delete Task \n 4. Mark Task as Complete \n 5. Exit");
             int choice = scn.nextInt();
             switch (choice) {
                 case 1:
@@ -90,6 +90,9 @@ public class Main {
                         System.out.println("Invalid Task ID");
                     }
                     break;
+                case 5:
+                    System.out.println("Exiting..........");   
+                    return; 
                 default:
                     System.out.println("Enter valid choice");
             }
